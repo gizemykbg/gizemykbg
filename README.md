@@ -6,7 +6,9 @@ Currently pursuing my bachelor's senior degree majoring in computer engineering 
 
 
 #### ✉️ Find me on:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://https://www.linkedin.com/in/gizemykbg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/your-work?cursor=ZD0xJm89MCZwPTEmdj00NzI5ODIxNQ==)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/mergizem?hr_r=1)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gizemykbg//) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/gizemykbg)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/mergizem?hr_r=1)  
 
 ### Languages and Tools
 <p align="center">
@@ -15,3 +17,5 @@ Currently pursuing my bachelor's senior degree majoring in computer engineering 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"  height="40" style="vertical-align:top; margin:4px" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  height="40" style="vertical-align:top; margin:4px" alt="Node.js"/>
 </p>
+
+
