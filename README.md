@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Gizem.
-Currently pursuing my bachelor's senior degree majoring in computer engineering from Konya Techinal University.
 
 - 🌱 I’m currently learning js and react.js 
 - 📫 How to reach me: mgizemykbg@gmail.com 
