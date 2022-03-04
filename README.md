@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gizem.
 
-- 🌱 I’m currently learning js and react.js 
+- 🌱 I’m currently learning ts and react native 
 - 📫 How to reach me: mgizemykbg@gmail.com 
 
 
